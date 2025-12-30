@@ -1,0 +1,5 @@
+pands
+numpy
+scikit-learn
+mathpoltlib
+streamlit
