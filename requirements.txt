@@ -3,3 +3,5 @@ numpy
 scikit-learn
 mathpoltlib
 streamlit
+seaborn
+tensorflow
